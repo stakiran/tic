@@ -1,4 +1,5 @@
 # Today I Conceptualized.
+[Website](https://stakiran.github.io/tic/) | [GitHub](https://github.com/stakiran/tic)
 
 ## Interrupt Designer
 ![](images/260116_182143.png)
