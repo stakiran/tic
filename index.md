@@ -118,7 +118,7 @@ Desk Time
 
 今日概念化したこと（Today I Conceptualized）
 
-俺は Today I Learned を書いてたことがある。<br>
+[俺](https://scrapbox.io/stao/)は Today I Learned を書いてたことがある。<br>
 今は概念をつくってる。
 
 あるとき、ふと気付いたのだ。<br>
