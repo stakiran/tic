@@ -7,7 +7,7 @@
     - [stakiran/visualstring: 指定文字列を黒背景白文字中央揃えで表示するツール](https://github.com/stakiran/visualstring)
 - 画像の貼り付け
     - VSCode拡張機能の [Paste Image - Visual Studio Marketplace](https://marketplace.visualstudio.com/items?itemName=mushan.vscode-paste-image)
-    - また設定は [.vscode\settings.json](.vscode\settings.json) に記載
+    - また設定は [.vscode/settings.json](.vscode/settings.json) に記載
     - これにより、クリップボードにコピーした画像を ctrl + alt + v で画像ファイル化して貼り付けできる
 
 ## 本文
