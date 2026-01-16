@@ -1,6 +1,8 @@
 # Today I Conceptualized.
 [Website](https://stakiran.github.io/tic/) | [GitHub](https://github.com/stakiran/tic)
 
+最新は下にぶら下げるのではなく、上に積み上げていきます。
+
 ## Interrupt Designer
 ![](images/260116_182143.png)
 
