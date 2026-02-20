@@ -3,14 +3,15 @@
 
 最新は下にぶら下げるのではなく、上に積み上げていきます。
 
-# Concept as Frame
-![](images/260220_175930.png)
+# Concept as Skeleton
+![](images/260221_074511.png)
 
-枠としての概念（Concept As Frame）
+骨格としての概念（Concept as Skeleton）
 
-概念の価値は枠にある。
+俺は骨格のつもりで概念を提示している。
 
-中身なんて各自が埋めればいいんだ。
+骨格ゆえに欠かすことはできない。<br>
+しかし、肉付けは俺の両分ではない。
 
 ## Conflict or Cancer
 ![](images/260220_055503.png)
