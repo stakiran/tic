@@ -3,6 +3,15 @@
 
 最新は下にぶら下げるのではなく、上に積み上げていきます。
 
+# Concept as Frame
+![](images/260220_175930.png)
+
+枠としての概念（Concept As Frame）
+
+概念の価値は枠にある。
+
+中身なんて各自が埋めればいいんだ。
+
 ## Conflict or Cancer
 ![](images/260220_055503.png)
 
