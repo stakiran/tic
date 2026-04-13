@@ -3,6 +3,18 @@
 
 最新は下にぶら下げるのではなく、上に積み上げていきます。
 
+# Practical Conceptual Art
+![](images/260414_055659.png)
+
+実用概念芸術（Practical Conceptual Art）
+
+そろそろ俺の営みに名前をつけておく。
+
+実はコンセプチュアル・アートの一種だ。<br>
+実用的な概念をつくっているのである。
+
+つまり、実際に使うことができる。
+
 # Conceptual Compass
 ![](images/260414_054932.png)
 
