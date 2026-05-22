@@ -162,7 +162,7 @@ AI の要約をそのまま共有するのも。
 骨格ゆえに欠かすことはできない。<br>
 しかし、肉付けは俺の両分ではない。
 
-## Conflict or Cancer
+# Conflict or Cancer
 ![](images/260220_055503.png)
 
 衝突か癌か（Conflict or Cancer）
@@ -171,7 +171,7 @@ AI の要約をそのまま共有するのも。
 
 できねば蝕まれるだけよ。
 
-## Cognitive Cancer
+# Cognitive Cancer
 ![](images/260220_054724.png)
 
 認知的な癌（Cognitive Cancer）
@@ -186,7 +186,7 @@ AI の要約をそのまま共有するのも。
 
 結局、癌にならないよう自衛するのが一番なのさ。
 
-## Romable
+# Romable
 ![](images/260216_181410.png)
 
 ロメイブル（Romable）
@@ -196,7 +196,7 @@ AI の要約をそのまま共有するのも。
 
 つまり、ROM れるかどうかが大事なのである。
 
-## Online Shy
+# Online Shy
 ![](images/260216_131151.png)
 
 オンライン・シャイ（Online Shy）
@@ -210,7 +210,7 @@ AI の要約をそのまま共有するのも。
 やってないってことはできないってことさ。<br>
 単にアンタがシャイなだけなのさ。
 
-## Context Management
+# Context Management
 ![](images/260215_111114.png)
 
 コンテキスト・マネジメント（Context Management）
@@ -221,7 +221,7 @@ AI の要約をそのまま共有するのも。
 コンテキストの管理は、人間にも必要なものなのさ。<br>
 AI による成果物が増えるんだからなおさらだろう？
 
-## Family Diversity
+# Family Diversity
 ![](images/260207_181801.png)
 
 家族の多様性（Family Diversity）
@@ -229,7 +229,7 @@ AI による成果物が増えるんだからなおさらだろう？
 一つのテーブル席は一つの家族にあてるもの。<br>
 俺は一人だが、家族のメンバーが俺一人であるというだけだ。
 
-## Consemony
+# Consemony
 ![](images/260206_053047.png)
 
 コンセモニー（Consemony）
@@ -242,7 +242,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 どうすればこの人達を救えるのだろう？
 
-## Communication Cursor
+# Communication Cursor
 ![](images/260206_052419.png)
 
 コミュニケーション・カーソル（Communication Cursor）
@@ -251,7 +251,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 私達はなぜか頭で抱えたがり、処理したがるんだよな。
 
-## Beforeffective
+# Beforeffective
 ![](images/260201_115059.png)
 
 ビフォアフェクティブ（Beforeffective）
@@ -264,7 +264,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 だから明示的に捉えてやることにした。
 
-## Envisionability
+# Envisionability
 ![](images/260125_111014.png)
 
 エンビジョナビリティ（Envisionability）
@@ -280,7 +280,7 @@ AI による成果物が増えるんだからなおさらだろう？
 その概要を、運用を、光景をイメージせよ。<br>
 イメージできるまで概念をこねて、ぶつけるのさ。
 
-## Soliator
+# Soliator
 ![](images/260125_064449.png)
 
 ソリエイター（Soliator）
@@ -293,7 +293,7 @@ AI による成果物が増えるんだからなおさらだろう？
 ぼく、人間ちゃわ。<br>
 ソリエイターや。
 
-## Solitary Creative
+# Solitary Creative
 ![](images/260125_063944.png)
 
 ソリタリー・クリエイティブ（Solitary Creative）
@@ -305,7 +305,7 @@ AI による成果物が増えるんだからなおさらだろう？
 クリエイターの本質とは価値の提供ではなく自由な探索であり、<br>
 自由を得るための、唯一の手段が、孤独なのである。
 
-## Workstyle Transformation
+# Workstyle Transformation
 ![](images/260123_055711.png)
 
 ワークスタイル・トランスフォーメーション（Workstyle Transformation, WX）
@@ -320,7 +320,7 @@ AI による成果物が増えるんだからなおさらだろう？
 めんどい、だるい、おかしくね。<br>
 あなたの直感は正しい。変革に向けて、動き出そうではないか。
 
-## Staqueue
+# Staqueue
 ![](images/260123_055349.png)
 
 スタッキュー（Stack and Queue, Staqueue）
@@ -333,7 +333,7 @@ AI による成果物が増えるんだからなおさらだろう？
 コンピュータ向けの、機械的な処理に特化した構造なれど。<br>
 それゆえリストよりも迷いなく使えるのだ。
 
-## Braide
+# Braide
 ![](images/260119_144410.png)
 
 ブレスト・スライド（Brast Slide, Braide）
@@ -346,7 +346,7 @@ AI による成果物が増えるんだからなおさらだろう？
 スライドだよ。スライド上でブレストするんだ。クラウドに置けば同時編集もできる。<br>
 これでどうだ？君たちの大好きなスライドなんだ、文句なかろう。
 
-## De-Dense
+# De-Dense
 ![](images/260119_053626.png)
 
 デデンス（De-Dense）
@@ -361,7 +361,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 想像してみよ――過密無き世界を。
 
-## Interrupt Designer
+# Interrupt Designer
 ![](images/260116_182143.png)
 
 割り込みデザイナー（Interrupt Designer）
@@ -372,7 +372,7 @@ AI による成果物が増えるんだからなおさらだろう？
 ならば御そう。<br>
 それを行える者を立ち上げるのだ。
 
-## Cognitive Cosmos
+# Cognitive Cosmos
 ![](images/260116_190503.png)
 
 コグモス（Cognitive Cosmos）
@@ -387,14 +387,14 @@ AI による成果物が増えるんだからなおさらだろう？
 性懲りもなく。<br>
 危険を冒してでも。
 
-## Desk Time
+# Desk Time
 ![](images/260116_190943.png)
 
 Desk Time
 
 結局のところ、机につく時間を最大化するしかないんだよ。
 
-## weltanschauung
+# weltanschauung
 ![](images/260116_190809.png)
 
 世界観（ヴェルタンシャウン / weltanschauung）
@@ -405,7 +405,7 @@ Desk Time
 幸いなことに、ドイツ語に良さそうなのがあるじゃないか。<br>
 君に決めた。
 
-## 三検
+# 三検
 ![](images/260116_190204.png)
 
 三検（検算、検討、検証）
@@ -420,7 +420,7 @@ Desk Time
 三検をやればいいのさ。<br>
 三検をできるようにすればいいのさ。
 
-## Paved Road
+# Paved Road
 ![](images/260116_185903.png)
 
 舗装された道路（Paved Road）
@@ -435,7 +435,7 @@ Desk Time
 
 道路のように。通れるように。
 
-## Writing Monster
+# Writing Monster
 ![](images/260116_185702.png)
 
 書く怪物（Writing Monster）
@@ -448,7 +448,7 @@ Desk Time
 
 そうだ、俺は――書く怪物なのだ。
 
-## ADEDR
+# ADEDR
 ![](images/260116_185120.png)
 
 ソフトウェアエンジニアが開拓する概念は、一般人の役に立つことが多い。
@@ -460,7 +460,7 @@ Desk Time
 - Developer Experience
 - Developer Relations
 
-## SAWA
+# SAWA
 ![](images/260116_184918.png)
 
 俺のような生物を端的に表現したかった。
@@ -473,7 +473,7 @@ Desk Time
 サワと読む。<br>
 君はサワッてるかい？俺はサワってるよ。
 
-## Today I Conceptualized
+# Today I Conceptualized
 ![](images/260116_182644.png)
 
 今日概念化したこと（Today I Conceptualized）
