@@ -467,7 +467,7 @@ AI による成果物が増えるんだからなおさらだろう？
 サワと読む。<br>
 君はサワッてるかい？俺はサワってるよ。
 
-# 今日概念化したこと（Today I Conceptualized）
+# 今日概念化したこと（Today I Conceptualized） [.](tic.md)
 ![](images/260116_182644.png)
 
 [俺](https://scrapbox.io/stao/)は Today I Learned を書いてたことがある。<br>
