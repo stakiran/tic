@@ -431,7 +431,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 道路のように。通れるように。
 
-# 書く怪物（Writing Monster）
+# 書く怪物（Writing Monster） [.](wrimon.md)
 ![](images/260116_185702.png)
 
 俺は書くことが好きだ。<br>
@@ -442,7 +442,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 そうだ、俺は――書く怪物なのだ。
 
-# ADEDR
+# ADEDR [.](adedr.md)
 ![](images/260116_185120.png)
 
 ソフトウェアエンジニアが開拓する概念は、一般人の役に立つことが多い。
@@ -454,7 +454,7 @@ AI による成果物が増えるんだからなおさらだろう？
 - Developer Experience
 - Developer Relations
 
-# SAWA
+# SAWA [.](sawa.md)
 ![](images/260116_184918.png)
 
 俺のような生物を端的に表現したかった。
