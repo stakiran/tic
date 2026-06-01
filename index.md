@@ -417,7 +417,7 @@ AI による成果物が増えるんだからなおさらだろう？
 性懲りもなく。<br>
 危険を冒してでも。
 
-# Desk Time [.](desktime.md)
+# Desk Time
 ![](images/260116_190943.png)
 
 結局のところ、机につく時間を最大化するしかないんだよ。
@@ -444,7 +444,7 @@ AI による成果物が増えるんだからなおさらだろう？
 三検をやればいいのさ。<br>
 三検をできるようにすればいいのさ。
 
-# 舗装された道路（Paved Road） [.](pavedroad.md)
+# 舗装された道路（Paved Road）
 ![](images/260116_185903.png)
 
 権限委譲しなければ先には進めぬ。<br>
@@ -457,7 +457,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 道路のように。通れるように。
 
-# 書く怪物（Writing Monster） [.](wrimon.md)
+# 書く怪物（Writing Monster）
 ![](images/260116_185702.png)
 
 俺は書くことが好きだ。<br>
@@ -468,7 +468,7 @@ AI による成果物が増えるんだからなおさらだろう？
 
 そうだ、俺は――書く怪物なのだ。
 
-# ADEDR [.](adedr.md)
+# ADEDR
 ![](images/260116_185120.png)
 
 ソフトウェアエンジニアが開拓する概念は、一般人の役に立つことが多い。
@@ -480,7 +480,7 @@ AI による成果物が増えるんだからなおさらだろう？
 - Developer Experience
 - Developer Relations
 
-# SAWA [.](sawa.md)
+# SAWA
 ![](images/260116_184918.png)
 
 俺のような生物を端的に表現したかった。
@@ -493,7 +493,7 @@ AI による成果物が増えるんだからなおさらだろう？
 サワと読む。<br>
 君はサワッてるかい？俺はサワってるよ。
 
-# 今日概念化したこと（Today I Conceptualized） [.](tic.md)
+# 今日概念化したこと（Today I Conceptualized）
 ![](images/260116_182644.png)
 
 [俺](https://scrapbox.io/stao/)は Today I Learned を書いてたことがある。<br>
